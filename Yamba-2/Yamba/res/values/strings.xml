@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="serverSummary">Specify URL of server that you wish to use
+  </string>
+  <string name="Server">Server URL</string>
+  <string name="passwordSummary">Your online password</string>
+  <string name="password">Password</string>
+  <string name="usernameSummary">Please enter your username</string>
+  <string name="username">Username</string>
+  <string name="buttonUpdate">Update</string>
+  <string name="hintStatus">Please enter your status message</string>
+  <string name="hello">Hello World, StatusActivity!</string>
+  <string name="app_name">Yamba</string>
+  <string name="titleStatusUpdate">Status Update</string>
+  <string name="titlePrefs">Preferences</string>
+  <string name="titleTimeline">Timeline</string>
+
+  <string name="msgStatusUpdatedSuccessfully">Status Updated Successfully</string>
+  <string name="msgStatusUpdateFailed">Status Update Failed</string>
+</resources>
